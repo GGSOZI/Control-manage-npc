@@ -1,4 +1,3 @@
--- DuaKNo NPC Manager (client-side LocalScript)
 -- Tabs: SPAWN / CONTROL / BEHAVIOR / SETTINGS
 
 local Players = game:GetService("Players")
